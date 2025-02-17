@@ -10,9 +10,9 @@
 <p>Currently working on building a business <a href="https://www.effexforge.com">www.effexforge.com</a></p>
 
 <p>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EffexDev&theme=vue" alt="EffexDev" width="300" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EffexDev&theme=vue" alt="EffexDev" width="300" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EffexDev&theme=vue" alt="EffexDev" width="605" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EffexDev&theme=github" alt="EffexDev" width="300" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EffexDev&theme=github" alt="EffexDev" width="300" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EffexDev&theme=github" alt="EffexDev" width="605" />
 </p>
 
 <h1></h1>
