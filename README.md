@@ -1,6 +1,6 @@
 <h1>✌️ Hey, I'm Jordan ✌️</h1>
 <h3">Self taught web developer and founder of Effex Forge</h3>
-<p> <img src="https://komarev.com/ghpvc/?username=EffexDev" alt="EffexDev" /> </p>
+<br />
 
 
 <p>
@@ -17,6 +17,7 @@
 <h2>Projects</h2>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EffexDev&show_icons=true" alt="EffexDev" /></p>
+<p> <img src="https://komarev.com/ghpvc/?username=EffexDev" alt="EffexDev" /> </p>
 
 <h3>Find me on socials</h3>
 
