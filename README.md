@@ -1,6 +1,5 @@
 <h1>✌️ Hey, I'm Jordan ✌️</h1>
 <h2>Self taught web developer and founder of Effex Forge</h2>
-<br />
 
 
 <p>
