@@ -14,7 +14,7 @@
 <p>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EffexDev&theme=vue" alt="EffexDev" width="300" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EffexDev&theme=vue" alt="EffexDev" width="300" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EffexDev&theme=vue" alt="EffexDev" width="600" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EffexDev&theme=vue" alt="EffexDev" width="610" />
 </p>
 
 <h4>Find me on socials:</h4>
