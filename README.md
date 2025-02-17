@@ -3,7 +3,7 @@
 
 
 <p>
-    <img src="https://skillicons.dev/icons?i=ts,react,tailwind,firebase,rust" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,firebase,rust" />
 </p>
 
 <p>I am a Perth, WA based self-taught web developer, learning React and using Firebase as a backend.</p>
