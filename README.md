@@ -8,7 +8,6 @@
 
 <p>I am a Perth, WA based self-taught web developer, learning React and using Firebase as a backend.</p>
 <p>I have worked in a variety of fields, from Sports Broadcasting, to Sewing, to ISP Support and helping build a fighter brand.</p>
-<br />
 <p>Currently working on building a business www.effexforge.com</p>
 <p>🦀 Rust Enthusiast 🦀</p>
 
@@ -18,7 +17,6 @@
 </p>
 
 <h3>Find me on socials</h3>
-
 <p>
   <a href="https://www.instagram.com/thesmoothdescent/?hl=en">
       <img src="https://skillicons.dev/icons?i=instagram" />
