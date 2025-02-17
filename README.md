@@ -22,7 +22,7 @@
   <a href="https://www.instagram.com/thesmoothdescent/?hl=en">
       <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://www.instagram.com/thesmoothdescent/?hl=en">
+  <a href="https://x.com/EffexForge">
       <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
