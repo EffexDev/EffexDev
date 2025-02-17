@@ -12,25 +12,10 @@
 <p>Currently working on building a business www.effexforge.com</p>
 <p>🦀 Rust Enthusiast 🦀</p>
 
-
-<details>
-
-<summary><h3>Projects</h3></summary>
-
-### You can add a header
-
-You can add text within a collapsed section.
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
-```
-
-</details>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EffexDev&show_icons=true" alt="EffexDev" /></p>
-<p> <img src="https://komarev.com/ghpvc/?username=EffexDev" alt="EffexDev" /> </p>
+<p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EffexDev&theme=vue" alt="EffexDev" width="300" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EffexDev&theme=vue" alt="EffexDev" width="620" />
+</p>
 
 <h3>Find me on socials</h3>
 
