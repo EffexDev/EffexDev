@@ -14,10 +14,9 @@
 <p>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EffexDev&theme=vue" alt="EffexDev" width="300" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EffexDev&theme=vue" alt="EffexDev" width="300" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EffexDev&theme=vue" alt="EffexDev" width="620" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EffexDev&theme=vue" alt="EffexDev" width="600" />
 </p>
 
-<h3>Find me on socials</h3>
 <p>
   <a href="https://www.instagram.com/thesmoothdescent/?hl=en">
       <img src="https://skillicons.dev/icons?i=instagram" />
