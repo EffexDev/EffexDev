@@ -13,7 +13,21 @@
 <p>🦀 Rust Enthusiast 🦀</p>
 
 
-<h2>Projects</h2>
+<details>
+
+<summary><h3>Projects</h3></summary>
+
+### You can add a header
+
+You can add text within a collapsed section.
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EffexDev&show_icons=true" alt="EffexDev" /></p>
 <p> <img src="https://komarev.com/ghpvc/?username=EffexDev" alt="EffexDev" /> </p>
