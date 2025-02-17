@@ -19,7 +19,6 @@
 
 <h1></h1>
 
-<h4>Find me on socials:</h4>
 <p>
   <a href="https://www.instagram.com/thesmoothdescent/?hl=en">
       <img src="https://skillicons.dev/icons?i=instagram" />
