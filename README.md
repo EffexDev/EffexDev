@@ -9,7 +9,7 @@
 <p>I am a Perth, WA based self-taught web developer, learning React and using Firebase as a backend.</p>
 <p>I have worked in a variety of fields, from Sports Broadcasting, to Sewing, to ISP Support and helping build a fighter brand.</p>
 <p>Currently working on building a business www.effexforge.com</p>
-<p>🦀 Rust Enthusiast 🦀</p>
+
 
 <p>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EffexDev&theme=vue" alt="EffexDev" width="300" />
@@ -17,6 +17,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EffexDev&theme=vue" alt="EffexDev" width="600" />
 </p>
 
+<h4>Find me on socials:</h4>
 <p>
   <a href="https://www.instagram.com/thesmoothdescent/?hl=en">
       <img src="https://skillicons.dev/icons?i=instagram" />
