@@ -18,11 +18,9 @@
 <h1></h1>
 
 <p>
-  <a href="https://www.instagram.com/thesmoothdescent/?hl=en">
+  <a href="https://www.instagram.com/effexforge?igsh=ejV3eXdsc2M5c3lz&utm_source=qr">
       <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://x.com/EffexForge">
-      <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
+  
 </p>
 
