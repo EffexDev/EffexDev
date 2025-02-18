@@ -1,5 +1,5 @@
 <h1>✌️ Hey, I'm Jordan ✌️</h1>
-<h2>Self-taught web developer and founder of Effex Forge</h2>
+<h2>Self-taught developer and founder of Effex Forge</h2>
 
 <p>
     <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,firebase,rust" />
