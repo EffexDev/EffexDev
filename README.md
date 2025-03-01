@@ -1,8 +1,14 @@
 <h1>✌️ Hey, I'm Jordan ✌️</h1>
 <h2>Self-taught developer and founder of Effex Forge</h2>
 
+<h4>Tech Stack</h4>
 <p>
-    <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,firebase,rust" />
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,vercel,firebase" />
+</p>
+
+<h4>Other Interests</h4>
+<p>
+    <img src="https://skillicons.dev/icons?i=flutter,rust,go" />
 </p>
 
 <p>I am a Perth, WA-based self-taught web developer, learning React and using Firebase as a backend.</p>
@@ -16,11 +22,4 @@
 </p>
 
 <h1></h1>
-
-<p>
-  <a href="https://www.instagram.com/effexforge?igsh=ejV3eXdsc2M5c3lz&utm_source=qr">
-      <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  
-</p>
 
