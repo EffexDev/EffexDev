@@ -3,12 +3,12 @@
 
 <h4>Tech Stack</h4>
 <p>
-    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,mongodb,tailwind,firebase,vercel&theme=light" />
+    <img src="https://skillicons.dev/icons?i=react,go,postgres,tailwind,supabase,firebase,vercel&theme=light" />
 </p>
 
 <h4>Other Interests</h4>
 <p>
-    <img src="https://skillicons.dev/icons?i=flutter,rust,go&theme=light" />
+    <img src="https://skillicons.dev/icons?i=flutter,rust&theme=light" />
 </p>
 <p>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EffexDev&theme=github" alt="EffexDev" width="300" />
