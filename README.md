@@ -3,7 +3,7 @@
 
 <h4>Tech Stack</h4>
 <p>
-    <img src="https://skillicons.dev/icons?i=react,go,postgres,tailwind,firebase,vercel&theme=light" />
+    <img src="https://skillicons.dev/icons?i=react,go,postgres,nextjs,tailwind,firebase,vercel&theme=light" />
 </p>
 
 <h4>Other Interests</h4>
