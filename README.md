@@ -8,7 +8,7 @@
 
 <h4>Other Interests</h4>
 <p>
-    <img src="https://skillicons.dev/icons?i=flutter,rust&theme=light" />
+    <img src="https://skillicons.dev/icons?i=flutter,rust,electron,kubernetes,vue&theme=light" />
 </p>
 <p>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EffexDev&theme=github" alt="EffexDev" width="300" />
