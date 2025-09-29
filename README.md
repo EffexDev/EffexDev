@@ -3,7 +3,7 @@
 
 <h4>Tech Stack</h4>
 <p>
-    <img src="https://skillicons.dev/icons?i=ts,react,node,nextjs,tailwind&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,nextjs,tailwind&theme=light" />
 </p>
 
 <h4>Other Interests</h4>
