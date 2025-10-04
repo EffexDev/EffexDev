@@ -1,5 +1,5 @@
 <h1>Hey, I'm Jordan ✌️</h1>
-<h2>Self-taught developer and founder of Effex Forge</h2>
+<h2>Self-taught developer and founder of Aevra.dev</h2>
 
 <h4>Tech Stack</h4>
 <table>
