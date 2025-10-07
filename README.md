@@ -13,7 +13,7 @@
   <tbody>
     <tr>
       <td><img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind&theme=dark" /></td>
-      <td><img src="https://skillicons.dev/icons?i=nodejs,postgres,gcp,firebase&theme=dark" /></td>
+      <td><img src="https://skillicons.dev/icons?i=go,postgres,gcp,firebase&theme=dark" /></td>
       <td><img src="https://skillicons.dev/icons?i=notion,vercel,vscode,arch&theme=dark" /></td>
     </tr>
   </tbody>
@@ -21,7 +21,7 @@
 
 <h4>Other Interests</h4>
 <p>
-    <img src="https://skillicons.dev/icons?i=go,rust,kubernetes&theme=light" />
+    <img src="https://skillicons.dev/icons?i=rust,kubernetes&theme=light" />
 </p>
 <p>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EffexDev&theme=dark" alt="EffexDev" width="300" />
