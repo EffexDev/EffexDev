@@ -1,7 +1,8 @@
 <div align="center">
 <h1>Hey, I'm Jordan ✌️</h1>
 
-<h2>Tinkering with webapps while diving deep into GCP</h2>
+<p>Front-End Developer with a solid background in building responsive applications with React and Next.js. I am currently transitioning my focus to backend and cloud engineering, actively developing my skills in Go and Google Cloud Platform to build robust, scalable, end-to-end solutions.</p>
+
   <h3>Tech Stack</h3>
   <table>
     <thead>
@@ -20,6 +21,15 @@
       </tr>
     </tbody>
   </table>
+
+<h3>Tools</h3>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white" />
+
+  <br>
+  <br>
   
   <p>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EffexDev&theme=dark" alt="EffexDev" width="300" />
