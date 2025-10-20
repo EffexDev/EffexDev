@@ -33,9 +33,14 @@
   <br>
   <br>
   
-  <p>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EffexDev&theme=dark" alt="EffexDev" width="300" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EffexDev&theme=dark" alt="EffexDev" width="300" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EffexDev&theme=dark" alt="EffexDev" width="605" />
-</p>
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=EffexDev&show_icons=true&theme=transparent" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EffexDev" />
+    </td>
+  </tr>
+</table>
 </div>
