@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Learning-Google%20Cloud%20Engineering-blue" />
 <br>
 <br>
-<p>Front-End Developer with a solid background in building responsive applications with React and Next.js. I am currently transitioning my focus to backend and cloud engineering, actively developing my skills in Go and Google Cloud Platform to build robust, scalable, end-to-end solutions.</p>
+<p>Front-End Developer building responsive applications with React and Next.js. I am currently transitioning my focus to backend and cloud engineering, actively developing my skills in Go and Google Cloud Platform to build robust, scalable, end-to-end solutions.</p>
 
 
   <h3>Tech Stack</h3>
