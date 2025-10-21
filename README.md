@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 <h1>Hey, I'm Jordan ✌️</h1>
 
 <img src="https://img.shields.io/badge/Status-Online-green" />
