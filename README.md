@@ -21,7 +21,8 @@
       <tr>
         <td><img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind&perline=4" /></td>
         <td align="center"><img src="https://meta-q.cdn.bubble.io/f1740327389123x713161792968389100/n8n%20plugin.png" width="46" />
-        <img src="https://cdn.iconscout.com/icon/free/png-256/free-stripe-logo-icon-svg-download-png-498440.png" width="46" /></td>
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-stripe-logo-icon-svg-download-png-498440.png" width="46" />
+        <img src="https://skillicons.dev/icons?i=graphql&perline=4" /></td>
         <td><img src="https://skillicons.dev/icons?i=go,gcp,firebase&perline=4" /></td>
       </tr>
     </tbody>
