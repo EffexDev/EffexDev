@@ -45,7 +45,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=EffexDev&show_icons=true&theme=transparent" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EffexDev&theme=transparent" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EffexDev&theme=transparent&cache_buster=1" />
     </td>
   </tr>
 </table>
