@@ -42,10 +42,10 @@
 <table border="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=EffexDev&show_icons=true&theme=transparent" />
+      <img src="https://github-readme-stats.vercel.app/api?username=aevrex&show_icons=true&theme=transparent" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EffexDev&theme=transparent&cache_buster=1" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aevrex&theme=transparent&cache_buster=1" />
     </td>
   </tr>
 </table>
