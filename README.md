@@ -1,13 +1,13 @@
 <div>
 <h1>Hey, I'm Jordan ✌️</h1>
-
-<a href="https://www.buymeacoffee.com/DevByJordan"><img src="https://img.buymeacoffee.com/button-api/?text=Support my work&emoji=&slug=DevByJordan&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
+  
 <img src="https://img.shields.io/badge/Status-Online-green" />
 <img src="https://img.shields.io/badge/Learning-Google%20Cloud%20Engineering-blue" />
 <br>
 <br>
 <p>Front-End Developer building responsive applications with React and Next.js. I am currently transitioning my focus to backend and cloud engineering, actively developing my skills in Go and Google Cloud Platform to build robust, scalable, end-to-end solutions.</p>
 
+<a href="https://www.buymeacoffee.com/DevByJordan"><img src="https://img.buymeacoffee.com/button-api/?text=Support my work&emoji=&slug=DevByJordan&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" alt="Support my work on Buy Me A Coffee" /></a>
 
   <h3>Tech Stack</h3>
   <table>
