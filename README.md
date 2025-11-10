@@ -35,7 +35,6 @@
       <th>Issues</th>
       <th>Pull Requests</th>
       <th>Stars</th>
-      <th>Description</th>
     </tr>
   </thead>
     <tbody>
@@ -45,7 +44,6 @@
         <td><img src="https://img.shields.io/github/issues/aevrex/soren"></td>
         <td><img src="https://img.shields.io/github/issues-pr/aevrex/soren"></td>
         <td align="center"><img src="https://img.shields.io/github/stars/aevrex/soren"></td>
-        <td>A Go library for interacting with and configuring VyOS software routers</td>
       </tr>
       <tr>
         <td>Macro.ly</td>
@@ -53,7 +51,6 @@
         <td><img src="https://img.shields.io/github/issues/aevrex/macro.ly-be"></td>
         <td><img src="https://img.shields.io/github/issues-pr/aevrex/macro.ly-be"></td>
         <td align="center"><img src="https://img.shields.io/github/stars/aevrex/macro.ly-be"></td>
-        <td>Global template store for Aussie Broadband communications</td>
       </tr>
     </tbody>
 </table>
