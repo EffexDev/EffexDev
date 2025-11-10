@@ -5,7 +5,6 @@
   
 <img src="https://img.shields.io/badge/Status-Online-green" />
 <img src="https://img.shields.io/badge/Learning-Google%20Cloud%20Engineering-blue" />
-<img src="https://img.shields.io/badge/Current%20Project-soren:%20Go%20SDK%20for%20VyOS-yellow" />
 <br>
 <br>
 
@@ -16,20 +15,48 @@
     <thead>
       <tr>
         <th>Frontend</th>
-        <th>Middleware</th>
         <th>Backend</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td><img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind&perline=4" /></td>
-        <td align="center"><img src="https://meta-q.cdn.bubble.io/f1740327389123x713161792968389100/n8n%20plugin.png" width="48" />
-        <img src="https://cdn.iconscout.com/icon/free/png-256/free-stripe-logo-icon-svg-download-png-498440.png" width="48" />
-        <img src="https://skillicons.dev/icons?i=graphql&perline=4" /></td>
-        <td><img src="https://skillicons.dev/icons?i=postgres,go,gcp,firebase&perline=5" /></td>
+        <td><img src="https://skillicons.dev/icons?i=go,gcp,firebase&perline=5" /></td>
       </tr>
     </tbody>
   </table>
+
+<h3>Projects</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Technologies</th>
+      <th>Issues</th>
+      <th>Pull Requests</th>
+      <th>Stars</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+    <tbody>
+      <tr>
+        <td>soren</td>
+        <td><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"></td>
+        <td><img src="https://img.shields.io/github/issues/aevrex/soren"></td>
+        <td><img src="https://img.shields.io/github/issues-pr/aevrex/soren"></td>
+        <td align="center"><img src="https://img.shields.io/github/stars/aevrex/soren"></td>
+        <td>A Go library for interacting with and configuring VyOS software routers</td>
+      </tr>
+      <tr>
+        <td>Macro.ly</td>
+        <td><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"><img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"></td>
+        <td><img src="https://img.shields.io/github/issues/aevrex/macro.ly-be"></td>
+        <td><img src="https://img.shields.io/github/issues-pr/aevrex/macro.ly-be"></td>
+        <td align="center"><img src="https://img.shields.io/github/stars/aevrex/macro.ly-be"></td>
+        <td>Global template store for Aussie Broadband communications</td>
+      </tr>
+    </tbody>
+</table>
 
 <h3>Tools</h3>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
