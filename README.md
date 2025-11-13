@@ -52,6 +52,13 @@
         <td><img src="https://img.shields.io/github/issues-pr/aevrex/macro.ly-be"></td>
         <td align="center"><img src="https://img.shields.io/github/stars/aevrex/macro.ly-be"></td>
       </tr>
+      <tr>
+        <td>Exercism Excercises</td>
+        <td><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"></td>
+        <td><img src="https://img.shields.io/github/issues/aevrex/exercism-solutions"></td>
+        <td><img src="https://img.shields.io/github/issues-pr/aevrex/exercism-solutions"></td>
+        <td align="center"><img src="https://img.shields.io/github/stars/aevrex/exercism-solutions"></td>
+      </tr>
     </tbody>
 </table>
 
